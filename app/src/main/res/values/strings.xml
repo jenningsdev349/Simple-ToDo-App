@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Simple To-Do</string>
+    <string name="back_button_content_description">Back</string>
+    <string name="add_task_button_content_description">Add Task</string>
+    <string name="task_list_no_tasks_text">No tasks in database\nPress the + button to add a task!</string>
+    <string name="task_list_app_bar_text">Task List</string>
+    <string name="toast_task_deleted">Task Deleted</string>
+    <string name="toast_task_edited">Task Edited</string>
+    <string name="delete_button_content_description">Delete</string>
+    <string name="delete_task_dialog_title">Delete Task</string>
+    <string name="delete_task_dialog_description">Are you sure you would like to delete this task?\n\nNote: This action is irreversible!</string>
+    <string name="delete_task_dialog_positive_action">Delete Task</string>
+    <string name="delete_task_dialog_negative_action">Cancel</string>
+    <string name="edit_task_dialog_title">Edit Task</string>
+    <string name="task_title_label">Title</string>
+    <string name="task_description_label">Description</string>
+    <string name="task_category_label">Category</string>
+    <string name="save_button">Save</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="toast_task_added">Task Added</string>
+    <string name="add_task_title">Add Task</string>
+</resources>
